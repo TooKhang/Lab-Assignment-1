@@ -15,7 +15,7 @@ class MoviePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Movie Explaination'),
+        title: const Text('Movie Explanation'),
       ),
       body: Center(
         child: Padding(
